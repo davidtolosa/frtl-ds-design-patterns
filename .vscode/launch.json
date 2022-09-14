@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "creacionales.builder.Main",
+            "projectName": "PatronesJava_6e2e3ecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "creacionales.factoryMethod.Main",
             "projectName": "PatronesJava_6e2e3ecf"
         },

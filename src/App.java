@@ -2,7 +2,6 @@ import repasoclases.Alumno;
 import repasoclases.Cliente;
 import repasoclases.Estatica;
 import repasoclases.IManejadorBD;
-import repasoclases.ManejadorBDPostgres;
 import repasoclases.ManjadorBDSQL;
 import repasoclases.Persona;
 
