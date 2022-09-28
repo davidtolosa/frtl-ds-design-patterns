@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "estructurales.adapterEjercicio.Main",
+            "projectName": "PatronesJava_6e2e3ecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "estructurales.adapter.Main",
             "projectName": "PatronesJava_6e2e3ecf"
         },
