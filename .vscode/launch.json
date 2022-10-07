@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "estructurales.decoratorEjemplo.Main",
+            "projectName": "PatronesJava_6e2e3ecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "estructurales.decorator.Main",
             "projectName": "PatronesJava_6e2e3ecf"
         },
