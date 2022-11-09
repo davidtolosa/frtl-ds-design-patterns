@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "comportamiento.strategy.Main",
+            "projectName": "PatronesJava_6e2e3ecf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "comportamiento.observer.Main",
             "projectName": "PatronesJava_6e2e3ecf"
         },
